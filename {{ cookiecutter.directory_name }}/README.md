@@ -1,4 +1,4 @@
-# {{cookiecutter.project_name}}
+# {{cookiecutter.directory_name}}
 
 Project Organization
 ----------------------
